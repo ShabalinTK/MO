@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ваш_репозиторий>
+   git clone 
    cd voice-classifier
    ```
 
@@ -28,7 +28,7 @@
    dataset/
    ├── Ed/
    │   ├── audio1.wav
-   ├── speaker2/
+   ├── Hom/
    │   ├── audio1.wav
    ...
    ```
@@ -50,7 +50,3 @@
 
 - Python 3.8 или 3.9
 - Microsoft Visual C++ Build Tools
-
-## Автор
-
-[Твоё имя]
