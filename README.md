@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone 
+   git clone https://github.com/ShabalinTK/MO.git
    cd voice-classifier
    ```
 
